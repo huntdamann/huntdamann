@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Hunter Mann</h1>
-<h3 align="center">I am a Life-long Learner Operating as a Security Research Engineer/Web Developer</h3>
+<h3 align="center">I am a Life-long Learner primarily operating as a Security Research Engineer/Web Developer</h3>
 
 - 🌱 What I am currently learning about: **IoT Device Hacking, CCNA, Jazz Piano, Perspective Drawing, Advanced Web Application Exploits**
 
