@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hunter Mann</h1>
 <h3 align="center">I am a Life-long Learner primarily operating as a Security Research Engineer/Web Developer</h3>
 
-- 🌱 What I am currently learning about: **IoT Device Hacking, CCNA, Jazz Piano, Perspective Drawing, Advanced Web Application Exploits**
+- 🌱 What I am currently learning about: **IoT Device Hacking, COMPTIA A+ and Pentest+, Jazz Piano, Perspective Drawing, Advanced Web Application Exploits**
 
 - 💬 Ask me about **Computers, Hacking, Music and Life**
 
